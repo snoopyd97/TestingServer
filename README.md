@@ -1,2 +1,2 @@
-# Getting Started with Create React App
+# Testing Project
 Testing Project for danny server
