@@ -52,7 +52,7 @@ export default class ExercisesList extends Component {
     return (
       <div>
         <h3>Logged Exercises</h3>
-        <table className="table">
+        {/* <table className="table">
           <thead className="thead-light">
             <tr>
               <th>Username</th>
@@ -65,7 +65,7 @@ export default class ExercisesList extends Component {
           <tbody>
             { this.exerciseList() }
           </tbody>
-        </table>
+        </table> */}
       </div>
     )
   }
